@@ -5,8 +5,8 @@ namespace Day_4_SnakeAndLadderProblem
     {
         public static void Main(string[]args)
         {
-              Console.WriteLine("Welcome To the Snake and Ladder Program");
-            //UC_1_StartPositionZero.SnakeLadderProgramFromZeroPosition();
+            //Console.WriteLine("Welcome To the Snake and Ladder Program");
+              UC_1_StartPositionZero.SnakeLadderProgramFromZeroPosition();
             //UC_2_RollDiceForNumber.RollDieToGetValue();
             //UC_3_CheckAndPlayForOption.PlayerCheckOptionToplay();
             //UC_4_RepeationTillPlayerWin.RepeationTillWinningPosition();
