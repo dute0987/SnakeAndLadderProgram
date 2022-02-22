@@ -11,8 +11,8 @@ namespace Day_4_SnakeAndLadderProblem
             //UC_3_CheckAndPlayForOption.PlayerCheckOptionToplay();
             //UC_4_RepeationTillPlayerWin.RepeationTillWinningPosition();
             //UC_5_PlayerGetExactWinnigPosition.ExactWinningPositionByPlayer();
-              UC_6_DiePositionUntilWin.PlayTheDiceAndShowPosition();
-            //UC_7_PlayGameUsingTwoPlayer.PlayGameShowPlayerWhoWon();
+            //UC_6_DiePositionUntilWin.PlayTheDiceAndShowPosition();
+              UC_7_PlayGameUsingTwoPlayer.PlayGameShowPlayerWhoWon();
         }
     }
 }
